@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(189, 83, 101) !important;
+}
+
+.btn {
+  background-color: rgb(139, 39, 39) !important;
+}
+
+footer {
+  background-color: rgb(157, 67, 82) !important;
+}

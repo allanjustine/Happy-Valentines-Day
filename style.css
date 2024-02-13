@@ -1,0 +1,56 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(189, 83, 101) !important;
+}
+
+footer {
+  background-color: rgb(157, 67, 82) !important;
+}
+
+.modal-content {
+  background-color: rgb(189, 83, 101) !important;
+}
+
+.btn {
+  background-color: rgb(176, 42, 42) !important;
+  color: white !important;
+}
+
+#branding {
+  position: absolute;
+  top: 35%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 25px;
+  font-weight: bolder;
+  font-family: cursive;
+  color: bisque;
+}
+
+#branding2 {
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 23px;
+  font-weight: bolder;
+  font-family: cursive;
+  color: rgb(238, 213, 182);
+}
+
+.heart {
+  position: absolute;
+  top: 38%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 450px;
+  font-weight: 100;
+  color: rgb(112, 2, 2);
+}
+
+.button {
+  z-index: 1;
+}
